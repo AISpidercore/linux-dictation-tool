@@ -28,12 +28,12 @@ A fully offline voice-to-text dictation tool for Linux using whisper.cpp. No clo
 
 2. **Run the installation script:**
    ```bash
-   bash install.sh
+   bash setup.sh
    ```
 
 3. **Launch the dictation tool:**
    ```bash
-   dictation_tool
+   dictation-tool
    ```
 
 ## Detailed Documentation
